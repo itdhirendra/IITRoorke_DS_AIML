@@ -1,0 +1,1020 @@
+﻿Average Selling Cost
+---------------------------------------
+3066.650000
+
+(1 row affected)
+
+PNAME                Age
+-------------------- -----------
+ANAND                57
+ALTAF                59
+JULIANA              63
+KAMALA               55
+MARY                 53
+NELSON               38
+PATTRICK             58
+QADIR                58
+RAMESH               56
+REBECCA              56
+REMITHA              53
+REVATHI              54
+VIJAYA               58
+
+(13 rows affected)
+
+PNAME
+--------------------
+NELSON
+REVATHI
+
+(2 rows affected)
+
+PNAME                DOB
+-------------------- ----------
+JULIANA              1960-01-31
+REBECCA              1967-01-01
+
+(2 rows affected)
+
+PNAME                Highest No of Copies Sold
+-------------------- -------------------------
+ANAND                43
+JULIANA              0
+KAMALA               7
+MARY                 84
+PATTRICK             84
+QADIR                21
+RAMESH               73
+REMITHA              51
+REVATHI              2
+VIJAYA               6
+
+(10 rows affected)
+
+lowest course fee
+-----------------
+4500
+
+(1 row affected)
+
+programmers done PGDCA
+----------------------
+3
+
+(1 row affected)
+
+Revenue C
+---------------------------------------
+185775.00
+
+(1 row affected)
+
+PNAME                TITLE                DEVELOPIN            SCOST                                   DCOST       SOLD
+-------------------- -------------------- -------------------- --------------------------------------- ----------- -----------
+RAMESH               HOTEL MGMT.          DBASE                13000.00                                35000       4
+RAMESH               DEAD LEE             PASCAL               599.95                                  4500        73
+
+(2 rows affected)
+
+Programmers Studied Sabhari
+---------------------------
+4
+
+(1 row affected)
+
+PNAME                TITLE                DEVELOPIN            SCOST                                   DCOST       SOLD
+-------------------- -------------------- -------------------- --------------------------------------- ----------- -----------
+ANAND                VIDEO TITLING        PASCAL               7500.00                                 16000       9
+JULIANA              INVENTORY            COBOL                3000.00                                 3500        0
+KAMALA               PAYROLL PKG.         DBASE                9000.00                                 20000       7
+MARY                 FINANCIAL ACCT.      ORACLE               18000.00                                85000       4
+MARY                 CODE GENERATOR       C                    4500.00                                 20000       23
+RAMESH               HOTEL MGMT.          DBASE                13000.00                                35000       4
+REMITHA              TSR HELP PKG.        ASSEMBLY             2500.00                                 6000        7
+
+(7 rows affected)
+
+PNAME                TITLE                DEVELOPIN            SCOST                                   DCOST       SOLD
+-------------------- -------------------- -------------------- --------------------------------------- ----------- -----------
+VIJAYA               TSR EDITOR           C                    900.00                                  700         6
+
+(1 row affected)
+
+costliest development in Basic
+------------------------------
+6000
+
+(1 row affected)
+
+No of Packages Developed in dBase
+---------------------------------
+2
+
+(1 row affected)
+
+Programmers Studied in Pragathi
+-------------------------------
+2
+
+(1 row affected)
+
+Programmers 
+------------
+5
+
+(1 row affected)
+
+
+-----------
+11007
+
+(1 row affected)
+
+PNAME                DOB        DOJ        GENDER PROF1                PROF2                SALARY
+-------------------- ---------- ---------- ------ -------------------- -------------------- -----------
+KAMALA               1968-10-30 1992-01-02 F      C                    DBASE                2900
+QADIR                1965-08-31 1991-04-21 M      ASSEMBLY             C                    3000
+REMITHA              1970-04-19 1993-04-20 F      C                    ASSEMBLY             3600
+VIJAYA               1965-12-14 1992-05-02 F      FOXPRO               C                    3500
+
+(4 rows affected)
+
+
+-----------
+8
+
+(1 row affected)
+
+
+-----------
+5
+
+(1 row affected)
+
+
+-----------
+59
+
+(1 row affected)
+
+
+-----------
+56
+
+(1 row affected)
+
+PNAME                Year of Exprience
+-------------------- -----------------
+REMITHA              30
+REVATHI              31
+VIJAYA               31
+ANAND                31
+KAMALA               31
+MARY                 32
+QADIR                32
+RAMESH               32
+REBECCA              33
+ALTAF                33
+JULIANA              33
+PATTRICK             33
+NELSON               34
+
+(13 rows affected)
+
+PNAME
+--------------------
+QADIR
+
+(1 row affected)
+
+
+-----------
+7
+
+(1 row affected)
+
+PNAME                PROF1                PROF2
+-------------------- -------------------- --------------------
+ANAND                PASCAL               BASIC
+ALTAF                CLIPPER              COBOL
+NELSON               COBOL                DBASE
+PATTRICK             PASCAL               CLIPPER
+QADIR                ASSEMBLY             C
+RAMESH               PASCAL               DBASE
+
+(6 rows affected)
+
+
+-----------
+3169
+
+(1 row affected)
+
+
+-----------
+12
+
+(1 row affected)
+
+PNAME                DOB        DOJ        GENDER PROF1                PROF2                SALARY
+-------------------- ---------- ---------- ------ -------------------- -------------------- -----------
+KAMALA               1968-10-30 1992-01-02 F      C                    DBASE                2900
+MARY                 1970-06-24 1991-02-01 F      CPP                  ORACLE               4500
+QADIR                1965-08-31 1991-04-21 M      ASSEMBLY             C                    3000
+REMITHA              1970-04-19 1993-04-20 F      C                    ASSEMBLY             3600
+VIJAYA               1965-12-14 1992-05-02 F      FOXPRO               C                    3500
+
+(5 rows affected)
+
+PNAME                TotalPackageCost
+-------------------- ----------------
+ANAND                22000
+JULIANA              3500
+KAMALA               20000
+MARY                 106200
+PATTRICK             1200
+QADIR                6100
+RAMESH               39500
+REMITHA              11000
+REVATHI              75000
+VIJAYA               700
+
+(10 rows affected)
+
+PNAME                TotalSales
+-------------------- ---------------------------------------
+ANAND                84697.85
+JULIANA              0.00
+KAMALA               63000.00
+MARY                 200700.00
+PATTRICK             25200.00
+QADIR                48150.00
+RAMESH               95796.35
+REMITHA              54475.00
+REVATHI              2200.00
+VIJAYA               5400.00
+
+(10 rows affected)
+
+PNAME                TotalSold
+-------------------- -----------
+ANAND                52
+JULIANA              0
+KAMALA               7
+MARY                 111
+PATTRICK             84
+QADIR                32
+RAMESH               77
+REMITHA              58
+REVATHI              2
+VIJAYA               6
+
+(10 rows affected)
+
+DEVELOPIN            TotalbyLang
+-------------------- ---------------------------------------
+ASSEMBLY             3250.00
+BASIC                399.95
+C                    8025.00
+COBOL                3000.00
+CPP                  600.00
+DBASE                22000.00
+ORACLE               18000.00
+PASCAL               9199.95
+
+(8 rows affected)
+
+DEVELOPIN            AvgDevelppmentCost AvgsellingCost                          AvgPrCopy
+-------------------- ------------------ --------------------------------------- ---------------------------------------
+ASSEMBLY             4500               1625.000000                             180.555555
+BASIC                6000               399.950000                              9.301162
+C                    7200               2006.250000                             79.455445
+COBOL                3500               3000.000000                             0.000000
+CPP                  1200               300.000000                              3.571428
+DBASE                27500              11000.000000                            2000.000000
+ORACLE               85000              18000.000000                            4500.000000
+PASCAL               31833              3066.650000                             109.523214
+
+(8 rows affected)
+
+PNAME                Costliest   Cheapest
+-------------------- ----------- -----------
+ANAND                16000       6000
+JULIANA              3500        3500
+KAMALA               20000       20000
+MARY                 85000       1200
+PATTRICK             1200        1200
+QADIR                3100        3000
+RAMESH               35000       4500
+REMITHA              6000        5000
+REVATHI              75000       75000
+VIJAYA               700         700
+
+(10 rows affected)
+
+INSTITUTE            NumCourses  AvgCostbyCourse
+-------------------- ----------- ---------------
+APPLE                1           14000
+BDPS                 3           25333
+BRILLIANT            1           11000
+COIT                 1           7200
+PRAGATHI             3           5466
+SABHARI              4           4625
+
+(6 rows affected)
+
+INSTITUTE            NoofStudents
+-------------------- ------------
+APPLE                1
+BDPS                 3
+BRILLIANT            1
+COIT                 1
+PRAGATHI             3
+SABHARI              4
+
+(6 rows affected)
+
+PNAME                GENDER
+-------------------- ------
+ANAND                M
+ALTAF                M
+JULIANA              F
+KAMALA               F
+MARY                 F
+NELSON               M
+PATTRICK             M
+QADIR                M
+RAMESH               M
+REBECCA              F
+REMITHA              F
+REVATHI              F
+VIJAYA               F
+
+(13 rows affected)
+
+PNAME                SALARY
+-------------------- -----------
+ANAND                3200
+ALTAF                2800
+JULIANA              3000
+KAMALA               2900
+MARY                 4500
+NELSON               2500
+PATTRICK             2800
+QADIR                3000
+RAMESH               3200
+REBECCA              2500
+REMITHA              3600
+REVATHI              3700
+VIJAYA               3500
+
+(13 rows affected)
+
+DEVELOPIN            NoofPackages
+-------------------- ------------
+ASSEMBLY             2
+BASIC                1
+COBOL                1
+CPP                  2
+DBASE                2
+ORACLE               1
+PASCAL               3
+
+(7 rows affected)
+
+DEVELOPIN            NoofPackages
+-------------------- ------------
+C                    1
+
+(1 row affected)
+
+TITLE                AVGDCOST    AVGSCOST                                AVGCOSTDIFF
+-------------------- ----------- --------------------------------------- ---------------------------------------
+BOMBS AWAY           3000        750.000000                              2250.000000
+CODE GENERATOR       20000       4500.000000                             15500.000000
+DEAD LEE             4500        599.950000                              3900.050000
+FINANCIAL ACCT.      85000       18000.000000                            67000.000000
+HOSPITAL MGMT.       75000       1100.000000                             73900.000000
+HOTEL MGMT.          35000       13000.000000                            22000.000000
+INVENTORY            3500        3000.000000                             500.000000
+PARACHUTES           6000        399.950000                              5600.050000
+PAYROLL PKG.         20000       9000.000000                             11000.000000
+PC UTILITIES         5000        725.000000                              4275.000000
+README               1200        300.000000                              900.000000
+TSR EDITOR           700         900.000000                              -200.000000
+TSR HELP PKG.        6000        2500.000000                             3500.000000
+VACCINES             3100        1900.000000                             1200.000000
+VIDEO TITLING        16000       7500.000000                             8500.000000
+
+(15 rows affected)
+
+PNAME                SumDCOST    SumSCOST                                SumDiffCOST
+-------------------- ----------- --------------------------------------- ---------------------------------------
+JULIANA              3500        0.00                                    -3500.00
+REVATHI              75000       2200.00                                 -72800.00
+
+(2 rows affected)
+
+HighestSalary lowestSalary AverageSalary
+------------- ------------ -------------
+4500          2500         3169
+
+(1 row affected)
+
+PNAME                DOB        DOJ        GENDER PROF1                PROF2                SALARY
+-------------------- ---------- ---------- ------ -------------------- -------------------- -----------
+REMITHA              1970-04-19 1993-04-20 F      C                    ASSEMBLY             3600
+
+(1 row affected)
+
+PNAME                DOB        DOJ        GENDER PROF1                PROF2                SALARY
+-------------------- ---------- ---------- ------ -------------------- -------------------- -----------
+JULIANA              1960-01-31 1990-04-21 F      COBOL                DBASE                3000
+
+(1 row affected)
+
+PNAME                DOB        DOJ        GENDER PROF1                PROF2                SALARY      DenseRank
+-------------------- ---------- ---------- ------ -------------------- -------------------- ----------- --------------------
+QADIR                1965-08-31 1991-04-21 M      ASSEMBLY             C                    3000        1
+REBECCA              1967-01-01 1990-12-01 F      BASIC                COBOL                2500        1
+REMITHA              1970-04-19 1993-04-20 F      C                    ASSEMBLY             3600        1
+ALTAF                1964-07-02 1990-11-13 M      CLIPPER              COBOL                2800        1
+JULIANA              1960-01-31 1990-04-21 F      COBOL                DBASE                3000        1
+MARY                 1970-06-24 1991-02-01 F      CPP                  ORACLE               4500        1
+VIJAYA               1965-12-14 1992-05-02 F      FOXPRO               C                    3500        1
+REVATHI              1969-12-02 1992-01-02 F      PASCAL               BASIC                3700        1
+
+(8 rows affected)
+
+PNAME                PROF                 SALARY      DenseRank
+-------------------- -------------------- ----------- --------------------
+REMITHA              ASSEMBLY             3600        1
+REVATHI              BASIC                3700        1
+REMITHA              C                    3600        1
+ALTAF                CLIPPER              2800        1
+PATTRICK             CLIPPER              2800        1
+JULIANA              COBOL                3000        1
+MARY                 CPP                  4500        1
+RAMESH               DBASE                3200        1
+VIJAYA               FOXPRO               3500        1
+MARY                 ORACLE               4500        1
+REVATHI              PASCAL               3700        1
+
+(11 rows affected)
+
+PNAME                DOB        DOJ        GENDER PROF1                PROF2                SALARY
+-------------------- ---------- ---------- ------ -------------------- -------------------- -----------
+REMITHA              1970-04-19 1993-04-20 F      C                    ASSEMBLY             3600
+
+(1 row affected)
+
+PNAME                DOB        DOJ        GENDER PROF1                PROF2                SALARY
+-------------------- ---------- ---------- ------ -------------------- -------------------- -----------
+PATTRICK             1965-11-10 1990-04-21 M      PASCAL               CLIPPER              2800
+
+(1 row affected)
+
+PROF                 
+-------------------- -----------
+CPP                  1
+FOXPRO               1
+ORACLE               1
+
+(3 rows affected)
+
+PNAME                DOB        DOJ        GENDER PROF1                PROF2                SALARY
+-------------------- ---------- ---------- ------ -------------------- -------------------- -----------
+ANAND                1966-04-12 1992-04-21 M      PASCAL               BASIC                3200
+ALTAF                1964-07-02 1990-11-13 M      CLIPPER              COBOL                2800
+JULIANA              1960-01-31 1990-04-21 F      COBOL                DBASE                3000
+KAMALA               1968-10-30 1992-01-02 F      C                    DBASE                2900
+MARY                 1970-06-24 1991-02-01 F      CPP                  ORACLE               4500
+PATTRICK             1965-11-10 1990-04-21 M      PASCAL               CLIPPER              2800
+QADIR                1965-08-31 1991-04-21 M      ASSEMBLY             C                    3000
+RAMESH               1967-05-03 1991-02-28 M      PASCAL               DBASE                3200
+REBECCA              1967-01-01 1990-12-01 F      BASIC                COBOL                2500
+REMITHA              1970-04-19 1993-04-20 F      C                    ASSEMBLY             3600
+REVATHI              1969-12-02 1992-01-02 F      PASCAL               BASIC                3700
+VIJAYA               1965-12-14 1992-05-02 F      FOXPRO               C                    3500
+
+(12 rows affected)
+
+PNAME                DOB        DOJ        GENDER PROF1                PROF2                SALARY
+-------------------- ---------- ---------- ------ -------------------- -------------------- -----------
+KAMALA               1968-10-30 1992-01-02 F      C                    DBASE                2900
+
+(1 row affected)
+
+PNAME                DOB        DOJ        GENDER PROF1                PROF2                SALARY
+-------------------- ---------- ---------- ------ -------------------- -------------------- -----------
+REBECCA              1967-01-01 1990-12-01 F      BASIC                COBOL                2500
+REVATHI              1969-12-02 1992-01-02 F      PASCAL               BASIC                3700
+
+(2 rows affected)
+
+INSTITUTE            studentCount
+-------------------- ------------
+SABHARI              4
+BDPS                 3
+PRAGATHI             3
+APPLE                1
+BRILLIANT            1
+COIT                 1
+
+(6 rows affected)
+
+COURSE               Fee
+-------------------- -----------
+DCA                  48000
+
+(1 row affected)
+
+COURSE               Fee         Rank
+-------------------- ----------- --------------------
+DCA                  48000       1
+
+(1 row affected)
+
+COURSE               StudentCount Rank
+-------------------- ------------ --------------------
+DCA                  3            1
+PGDCA                3            1
+
+(2 rows affected)
+
+INSTITUTE            StudentCount Rank
+-------------------- ------------ --------------------
+BDPS                 48000        1
+
+(1 row affected)
+
+INSTITUTE            COURSE               COURSE_FEE
+-------------------- -------------------- -----------
+SABHARI              PGDCA                4500
+COIT                 DCA                  7200
+PRAGATHI             DCA                  5000
+SABHARI              PGDCA                4500
+PRAGATHI             DAP                  6200
+PRAGATHI             DCAP                 5200
+SABHARI              PGDCA                4500
+BRILLIANT            DCAP                 11000
+BDPS                 DCS                  6000
+SABHARI              DAP                  5000
+
+(10 rows affected)
+
+INSTITUTE            COURSE               COURSE_FEE
+-------------------- -------------------- -----------
+BRILLIANT            DCAP                 11000
+
+(1 row affected)
+
+TITLE                DCOST
+-------------------- -----------
+FINANCIAL ACCT.      85000
+
+(1 row affected)
+
+(7 rows affected)
+
+CRS                  CNT
+-------------------- -----------
+DCS                  1
+HDCA                 1
+MCA                  1
+
+(3 rows affected)
+
+PNAME                TITLE                SCOST
+-------------------- -------------------- ---------------------------------------
+MARY                 README               300.00
+PATTRICK             README               300.00
+
+(2 rows affected)
+
+PNAME                TITLE                SOLD
+-------------------- -------------------- -----------
+JULIANA              INVENTORY            0
+
+(1 row affected)
+
+DEVELOPIN            Highest sales amount
+-------------------- ---------------------------------------
+C                    103500.00
+
+(1 row affected)
+
+TITLE                SOLD        diffrence
+-------------------- ----------- ---------------------------------------
+TSR EDITOR           6           -4700.00
+
+(1 row affected)
+
+TITLE                DCOST
+-------------------- -----------
+HOSPITAL MGMT.       75000
+
+(1 row affected)
+
+DEVELOPIN
+--------------------
+C
+
+(1 row affected)
+
+PNAME
+--------------------
+MARY
+
+(1 row affected)
+
+PNAME
+--------------------
+MARY
+
+(1 row affected)
+
+TITLE                SOLD
+-------------------- -----------
+VIDEO TITLING        9
+INVENTORY            0
+PAYROLL PKG.         7
+FINANCIAL ACCT.      4
+CODE GENERATOR       23
+BOMBS AWAY           11
+VACCINES             21
+HOTEL MGMT.          4
+TSR HELP PKG.        7
+HOSPITAL MGMT.       2
+TSR EDITOR           6
+
+(11 rows affected)
+
+PNAME                DeliveryCost TotalRecoveryCost
+-------------------- ------------ ---------------------------------------
+ANAND                22000        84697.85
+KAMALA               20000        63000.00
+PATTRICK             1200         25200.00
+QADIR                6100         48150.00
+RAMESH               39500        95796.35
+REMITHA              11000        54475.00
+VIJAYA               700          5400.00
+
+(7 rows affected)
+
+ProgrammerName       CheapestPackage      Language             CheapestPackageCost
+-------------------- -------------------- -------------------- ---------------------------------------
+ANAND                PARACHUTES           BASIC                399.95
+ANAND                VIDEO TITLING        PASCAL               7500.00
+JULIANA              INVENTORY            COBOL                3000.00
+KAMALA               PAYROLL PKG.         DBASE                9000.00
+MARY                 CODE GENERATOR       C                    4500.00
+MARY                 README               CPP                  300.00
+MARY                 FINANCIAL ACCT.      ORACLE               18000.00
+PATTRICK             README               CPP                  300.00
+QADIR                BOMBS AWAY           ASSEMBLY             750.00
+QADIR                VACCINES             C                    1900.00
+RAMESH               HOTEL MGMT.          DBASE                13000.00
+RAMESH               DEAD LEE             PASCAL               599.95
+REMITHA              TSR HELP PKG.        ASSEMBLY             2500.00
+REMITHA              PC UTILITIES         C                    725.00
+REVATHI              HOSPITAL MGMT.       PASCAL               1100.00
+VIJAYA               TSR EDITOR           C                    900.00
+
+(16 rows affected)
+
+PNAME                DEVELOPIN            SOLD        
+-------------------- -------------------- ----------- -------
+MARY                 CPP                  84          HIGHEST
+PATTRICK             CPP                  84          HIGHEST
+JULIANA              COBOL                0           LOWEST
+
+(3 rows affected)
+
+PNAME                DOB
+-------------------- ----------
+PATTRICK             1965-11-10
+
+(1 row affected)
+
+PNAME                DOB
+-------------------- ----------
+PATTRICK             1965-11-10
+
+(1 row affected)
+
+PNAME                DOB
+-------------------- ----------
+VIJAYA               1965-12-14
+
+(1 row affected)
+
+PNAME                DOB
+-------------------- ----------
+VIJAYA               1965-12-14
+
+(1 row affected)
+
+Year
+-----------
+1965
+
+(1 row affected)
+
+Month
+------------------------------
+April
+
+(1 row affected)
+
+PROF                 Total
+-------------------- -----------
+C                    4
+COBOL                4
+DBASE                4
+PASCAL               4
+
+(4 rows affected)
+
+PNAME                DOB        DOJ        GENDER PROF1                PROF2                SALARY
+-------------------- ---------- ---------- ------ -------------------- -------------------- -----------
+ANAND                1966-04-12 1992-04-21 M      PASCAL               BASIC                3200
+ALTAF                1964-07-02 1990-11-13 M      CLIPPER              COBOL                2800
+NELSON               1985-09-11 1989-10-11 M      COBOL                DBASE                2500
+PATTRICK             1965-11-10 1990-04-21 M      PASCAL               CLIPPER              2800
+QADIR                1965-08-31 1991-04-21 M      ASSEMBLY             C                    3000
+RAMESH               1967-05-03 1991-02-28 M      PASCAL               DBASE                3200
+
+(6 rows affected)
+
+PNAME                DOB        DOJ        GENDER PROF1                PROF2                SALARY
+-------------------- ---------- ---------- ------ -------------------- -------------------- -----------
+MARY                 1970-06-24 1991-02-01 F      CPP                  ORACLE               4500
+REMITHA              1970-04-19 1993-04-20 F      C                    ASSEMBLY             3600
+REVATHI              1969-12-02 1992-01-02 F      PASCAL               BASIC                3700
+VIJAYA               1965-12-14 1992-05-02 F      FOXPRO               C                    3500
+
+(4 rows affected)
+
+PROF                 Total
+-------------------- -----------
+C                    4
+COBOL                4
+DBASE                4
+PASCAL               4
+
+(4 rows affected)
+
+(15 rows affected)
+
+(10 rows affected)
+
+PRs                  sCNT
+-------------------- -----------
+C                    4
+COBOL                4
+DBASE                4
+PASCAL               4
+
+(4 rows affected)
+
+PNAME                SALARY
+-------------------- -----------
+NELSON               2500
+REBECCA              2500
+ALTAF                2800
+PATTRICK             2800
+QADIR                3000
+JULIANA              3000
+ANAND                3200
+RAMESH               3200
+
+(8 rows affected)
+
+PNAME                TITLE                DEVELOPIN            SCOST                                   DCOST       SOLD
+-------------------- -------------------- -------------------- --------------------------------------- ----------- -----------
+ANAND                PARACHUTES           BASIC                399.95                                  6000        43
+ANAND                VIDEO TITLING        PASCAL               7500.00                                 16000       9
+RAMESH               HOTEL MGMT.          DBASE                13000.00                                35000       4
+RAMESH               DEAD LEE             PASCAL               599.95                                  4500        73
+
+(4 rows affected)
+
+PNAME                TITLE                DEVELOPIN            SCOST                                   DCOST       SOLD
+-------------------- -------------------- -------------------- --------------------------------------- ----------- -----------
+REVATHI              HOSPITAL MGMT.       PASCAL               1100.00                                 75000       2
+
+(1 row affected)
+
+PNAME                DOB        DOJ        GENDER PROF1                PROF2                SALARY
+-------------------- ---------- ---------- ------ -------------------- -------------------- -----------
+NELSON               1985-09-11 1989-10-11 M      COBOL                DBASE                2500
+
+(1 row affected)
+
+PNAME                TITLE                DEVELOPIN            SCOST                                   DCOST       SOLD        GENDER INSTITUTE
+-------------------- -------------------- -------------------- --------------------------------------- ----------- ----------- ------ --------------------
+
+(0 rows affected)
+
+INSTITUTE            PKGCNT      SALESCNT    SALVAL
+-------------------- ----------- ----------- ---------------------------------------
+APPLE                2           2           48150.00
+BDPS                 4           4           59875.00
+PRAGATHI             1           1           63000.00
+SABHARI              8           8           383394.20
+
+(4 rows affected)
+
+(6 rows affected)
+
+PNAME                TITLE                DEVELOPIN            SCOST                                   DCOST       SOLD
+-------------------- -------------------- -------------------- --------------------------------------- ----------- -----------
+RAMESH               HOTEL MGMT.          DBASE                13000.00                                35000       4
+
+(1 row affected)
+
+PNAME                DOB        DOJ        GENDER PROF1                PROF2                SALARY
+-------------------- ---------- ---------- ------ -------------------- -------------------- -----------
+ALTAF                1964-07-02 1990-11-13 M      CLIPPER              COBOL                2800
+
+(1 row affected)
+
+PNAME                TITLE                DEVELOPIN            SCOST                                   DCOST       SOLD        PROF1                PROF2
+-------------------- -------------------- -------------------- --------------------------------------- ----------- ----------- -------------------- --------------------
+MARY                 CODE GENERATOR       C                    4500.00                                 20000       23          CPP                  ORACLE
+PATTRICK             README               CPP                  300.00                                  1200        84          PASCAL               CLIPPER
+
+(2 rows affected)
+
+PNAME                TITLE                DEVELOPIN            SCOST                                   DCOST       SOLD        PROF1                PROF2
+-------------------- -------------------- -------------------- --------------------------------------- ----------- ----------- -------------------- --------------------
+ANAND                PARACHUTES           BASIC                399.95                                  6000        43          PASCAL               BASIC
+ANAND                VIDEO TITLING        PASCAL               7500.00                                 16000       9           PASCAL               BASIC
+PATTRICK             README               CPP                  300.00                                  1200        84          PASCAL               CLIPPER
+QADIR                BOMBS AWAY           ASSEMBLY             750.00                                  3000        11          ASSEMBLY             C
+QADIR                VACCINES             C                    1900.00                                 3100        21          ASSEMBLY             C
+RAMESH               HOTEL MGMT.          DBASE                13000.00                                35000       4           PASCAL               DBASE
+RAMESH               DEAD LEE             PASCAL               599.95                                  4500        73          PASCAL               DBASE
+
+(7 rows affected)
+
+PNAME                DOB        DOJ        GENDER PROF1                PROF2                SALARY
+-------------------- ---------- ---------- ------ -------------------- -------------------- -----------
+ALTAF                1964-07-02 1990-11-13 M      CLIPPER              COBOL                2800
+NELSON               1985-09-11 1989-10-11 M      COBOL                DBASE                2500
+REBECCA              1967-01-01 1990-12-01 F      BASIC                COBOL                2500
+
+(3 rows affected)
+
+DevelopmentCost SelleingCost
+--------------- ---------------------------------------
+6100            48150.00
+
+(1 row affected)
+
+PNAME                DOJ
+-------------------- ----------
+JULIANA              1990-04-21
+PATTRICK             1990-04-21
+REVATHI              1992-01-02
+KAMALA               1992-01-02
+
+(4 rows affected)
+
+PNAME                PROF2
+-------------------- --------------------
+ANAND                BASIC
+REVATHI              BASIC
+VIJAYA               C
+QADIR                C
+REBECCA              COBOL
+ALTAF                COBOL
+JULIANA              DBASE
+JULIANA              DBASE
+JULIANA              DBASE
+KAMALA               DBASE
+KAMALA               DBASE
+KAMALA               DBASE
+NELSON               DBASE
+NELSON               DBASE
+NELSON               DBASE
+RAMESH               DBASE
+RAMESH               DBASE
+RAMESH               DBASE
+
+(18 rows affected)
+
+INSTITUTE            SelleingCost
+-------------------- ---------------------------------------
+APPLE                48150.00
+BDPS                 59875.00
+PRAGATHI             63000.00
+SABHARI              383394.20
+
+(4 rows affected)
+
+INSTITUTE            PNAME                SelleingCost
+-------------------- -------------------- ---------------------------------------
+SABHARI              MARY                 72000.00
+
+(1 row affected)
+
+PROF
+--------------------
+CLIPPER
+FOXPRO
+CLIPPER
+
+(3 rows affected)
+
+PNAME                COURSE               SALARY
+-------------------- -------------------- -----------
+MARY                 PGDCA                4500
+
+(1 row affected)
+
+
+-----------
+3660
+
+(1 row affected)
+
+PNAME                
+-------------------- -----------
+ANAND                2
+MARY                 3
+RAMESH               2
+REVATHI              1
+
+(4 rows affected)
+
+PNAME                SWCNT       INSTITUTE
+-------------------- ----------- --------------------
+VIJAYA               1           BDPS
+
+(1 row affected)
+
+
+-----------
+7
+
+(1 row affected)
+
+
+-----------
+1
+
+(1 row affected)
+
+PNAME                INSTITUTE
+-------------------- --------------------
+ANAND                SABHARI
+JULIANA              BDPS
+KAMALA               PRAGATHI
+MARY                 SABHARI
+QADIR                APPLE
+RAMESH               SABHARI
+REMITHA              BDPS
+REVATHI              SABHARI
+VIJAYA               BDPS
+
+(9 rows affected)
+
+PROF1                PROF2                num_programmers num_packages
+-------------------- -------------------- --------------- ------------
+C                    ASSEMBLY             1               2
+PASCAL               BASIC                2               3
+ASSEMBLY             C                    1               2
+FOXPRO               C                    1               1
+PASCAL               CLIPPER              1               1
+BASIC                COBOL                1               0
+CLIPPER              COBOL                1               0
+C                    DBASE                1               1
+COBOL                DBASE                2               1
+PASCAL               DBASE                1               2
+CPP                  ORACLE               1               3
+Warning: Null value is eliminated by an aggregate or other SET operation.
+
+(11 rows affected)
+
+PNAME                NoPackagDevelop
+-------------------- ---------------
+ANAND                2
+ALTAF                0
+JULIANA              1
+KAMALA               1
+MARY                 3
+NELSON               0
+PATTRICK             1
+QADIR                2
+RAMESH               2
+REBECCA              0
+REMITHA              2
+REVATHI              1
+VIJAYA               1
+
+(13 rows affected)
+
+
+Completion time: 2023-08-20T01:13:28.9955387+05:30
